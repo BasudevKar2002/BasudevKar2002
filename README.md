@@ -1,3 +1,4 @@
+![logo](https://github.com/BasudevKar2002/BasudevKar2002/blob/main/Yellow%20and%20Green%20Illustration%20Personal%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Basudev Kar</h1>
 <h3 align="center">A passionate Mern Stack Software Developer 🚀 having a special interest in Frontend technologies and experience of building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.</h3>
 
